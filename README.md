@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : S.Shanmathi
+Name : Ragul R
 
-Roll no : 212222100049
+Roll no : 212222100040
 
 Date of experiment : 21.10.24
 
